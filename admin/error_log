@@ -1,0 +1,85 @@
+[16-Aug-2016 20:19:25 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 31
+[16-Aug-2016 20:19:56 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 31
+[16-Aug-2016 20:23:29 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 31
+[21-Aug-2016 20:26:31 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 68
+[30-Aug-2016 16:50:02 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 39
+[30-Aug-2016 16:50:27 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 39
+[30-Aug-2016 16:50:36 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 39
+[30-Aug-2016 16:53:36 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 68
+[30-Aug-2016 17:07:26 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 68
+[30-Aug-2016 17:07:42 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 68
+[30-Aug-2016 17:09:34 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 39
+[30-Aug-2016 17:29:26 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 39
+[30-Aug-2016 17:29:47 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 68
+[30-Aug-2016 17:31:23 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 39
+[30-Aug-2016 17:31:53 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 39
+[30-Aug-2016 17:33:54 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 68
+[30-Aug-2016 17:35:26 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 39
+[02-Sep-2016 12:00:39 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 68
+[02-Sep-2016 12:00:50 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 39
+[02-Sep-2016 12:01:28 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 39
+[29-Sep-2016 20:51:15 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hoho/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:25:51 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:25:51 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:26:59 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:26:59 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:27:55 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:27:55 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:28:32 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:28:32 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:28:53 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:28:53 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:28:57 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:28:57 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:29:13 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:29:13 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:30:20 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:30:20 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:30:25 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:30:25 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:30:59 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:30:59 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:32:32 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:32:32 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[04-Aug-2017 21:33:42 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/hohorc8i/public_html/admin/db-login.php on line 68
+[04-Aug-2017 21:33:42 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hohorc8i/public_html/admin/db-login.php on line 68
+[11-Aug-2017 14:32:14 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[11-Aug-2017 14:32:14 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[11-Aug-2017 14:36:03 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[11-Aug-2017 14:36:03 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hohorc8i/public_html/admin/db-login.php on line 39
+[23-Aug-2017 14:06:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/hohorc8i/public_html/admin/user_details.php on line 120
+[23-Aug-2017 14:07:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/hohorc8i/public_html/admin/user_details.php on line 120
+[23-Aug-2017 14:07:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/hohorc8i/public_html/admin/user_details.php on line 120
+[24-Aug-2017 07:34:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/hohorc8i/public_html/admin/user_details.php on line 254
+[24-Aug-2017 07:36:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/hohorc8i/public_html/admin/user_details.php on line 255
+[24-Aug-2017 07:38:11 Etc/GMT] PHP Parse error:  syntax error, unexpected 'footer' (T_STRING), expecting ',' or ';' in /home/hohorc8i/public_html/admin/user_details.php on line 324
+[24-Aug-2017 07:38:14 Etc/GMT] PHP Parse error:  syntax error, unexpected 'footer' (T_STRING), expecting ',' or ';' in /home/hohorc8i/public_html/admin/user_details.php on line 324
+[24-Aug-2017 10:48:08 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/hohorc8i/public_html/admin/user_details.php on line 222
+[24-Aug-2017 10:48:10 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/hohorc8i/public_html/admin/user_details.php on line 222
+[24-Aug-2017 10:49:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/hohorc8i/public_html/admin/user_details.php on line 269
+[24-Aug-2017 10:49:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/hohorc8i/public_html/admin/user_details.php on line 269
+[24-Aug-2017 10:49:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/hohorc8i/public_html/admin/user_details.php on line 270
+[24-Aug-2017 11:33:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '<', expecting catch (T_CATCH) in /home/hohorc8i/public_html/admin/index.php on line 84
+[24-Aug-2017 11:33:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '<', expecting catch (T_CATCH) in /home/hohorc8i/public_html/admin/index.php on line 84
+[24-Aug-2017 11:34:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '<', expecting catch (T_CATCH) in /home/hohorc8i/public_html/admin/index.php on line 84
+[24-Aug-2017 11:34:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '<', expecting catch (T_CATCH) in /home/hohorc8i/public_html/admin/index.php on line 84
+[24-Aug-2017 11:34:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting catch (T_CATCH) in /home/hohorc8i/public_html/admin/index.php on line 84
+[24-Aug-2017 11:34:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting catch (T_CATCH) in /home/hohorc8i/public_html/admin/index.php on line 84
+[24-Aug-2017 11:35:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting catch (T_CATCH) in /home/hohorc8i/public_html/admin/index.php on line 84
+[24-Aug-2017 11:35:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting catch (T_CATCH) in /home/hohorc8i/public_html/admin/index.php on line 84
+[24-Aug-2017 11:42:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting catch (T_CATCH) in /home/hohorc8i/public_html/admin/index.php on line 84
+[24-Aug-2017 11:59:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting catch (T_CATCH) in /home/hohorc8i/public_html/admin/index.php on line 84
+[24-Aug-2017 12:00:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting catch (T_CATCH) in /home/hohorc8i/public_html/admin/index.php on line 84
+[24-Aug-2017 12:00:37 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>' in /home/hohorc8i/public_html/admin/index.php on line 80
+[24-Aug-2017 12:00:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>' in /home/hohorc8i/public_html/admin/index.php on line 80
+[24-Aug-2017 12:01:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>' in /home/hohorc8i/public_html/admin/index.php on line 80
+[24-Aug-2017 12:02:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>' in /home/hohorc8i/public_html/admin/index.php on line 80
+[24-Aug-2017 12:03:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>' in /home/hohorc8i/public_html/admin/index.php on line 80
+[24-Aug-2017 12:11:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting catch (T_CATCH) in /home/hohorc8i/public_html/admin/index.php on line 79
+[24-Aug-2017 12:11:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting catch (T_CATCH) in /home/hohorc8i/public_html/admin/index.php on line 79
+[24-Aug-2017 12:11:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting catch (T_CATCH) in /home/hohorc8i/public_html/admin/index.php on line 79
+[24-Aug-2017 12:21:41 Etc/GMT] PHP Parse error:  syntax error, unexpected '*', expecting ')' in /home/hohorc8i/public_html/admin/index.php on line 83
+[24-Aug-2017 12:21:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '*', expecting ')' in /home/hohorc8i/public_html/admin/index.php on line 83
+[27-Aug-2017 22:19:44 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/hohorc8i/public_html/admin/db-login.php on line 71
+[27-Aug-2017 17:29:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hohorc8i/public_html/admin/profile.php on line 28
+[27-Aug-2017 19:35:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hohorc8i/public_html/admin/profile.php on line 28
